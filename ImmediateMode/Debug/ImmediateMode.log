@@ -1,0 +1,12 @@
+﻿  main.cpp
+C:\Users\taka\Desktop\CGAssignment8\ImmediateMode\main.cpp(16,9): warning C4005: '_CRT_SECURE_NO_WARNINGS': 매크로 재정의
+      C:\Users\taka\Desktop\CGAssignment8\ImmediateMode\main.cpp(16,9):
+      이전에 명령줄에서 선언된 '_CRT_SECURE_NO_WARNINGS'
+  
+C:\Users\taka\Desktop\CGAssignment8\ImmediateMode\main.cpp(95,12): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\taka\Desktop\CGAssignment8\ImmediateMode\main.cpp(96,12): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\taka\Desktop\CGAssignment8\ImmediateMode\main.cpp(97,12): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\taka\Desktop\CGAssignment8\ImmediateMode\main.cpp(111,12): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\taka\Desktop\CGAssignment8\ImmediateMode\main.cpp(112,12): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\taka\Desktop\CGAssignment8\ImmediateMode\main.cpp(113,12): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  ImmediateMode.vcxproj -> C:\Users\taka\Desktop\CGAssignment8\bin\ImmediateMode.exe
