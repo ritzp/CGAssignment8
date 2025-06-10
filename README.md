@@ -1,6 +1,6 @@
 # CGAssignment8
 
-The purpose of this project is to implement Phong Shading using the OpenGL Shader Pipeline.
+The purpose of this project is to load the bunny object and render it as a triangle mesh.
 
 <h3>How to Build and Run</h3>
 <h4>Immediate Mode</h4>
