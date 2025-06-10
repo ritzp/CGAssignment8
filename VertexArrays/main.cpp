@@ -274,6 +274,14 @@ void reshape(int w, int h) {
 	glutPostRedisplay();
 }
 
+void keyboard(unsigned char key, int x, int y)
+{
+	if (key == 27 || key == 'q' || key == 'Q')  // ESC or 'q' or 'Q'
+	{
+		exit(0);  // Á¾·á
+	}
+}
+
 //------------------ Main Entry Point ------------------
 int main(int argc, char** argv) {
 	load_mesh("bunny.obj");
@@ -324,6 +332,7 @@ int main(int argc, char** argv) {
 
 	glutDisplayFunc(display);
 	glutReshapeFunc(reshape);
+	glutKeyboardFunc(keyboard);
 	glutMainLoop();
 
 	return 0;
